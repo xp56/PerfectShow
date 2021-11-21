@@ -7,3 +7,4 @@ project(':opencv').projectDir = new File(opencv_sdk + '/sdk')
 include ':app'
 
 
+

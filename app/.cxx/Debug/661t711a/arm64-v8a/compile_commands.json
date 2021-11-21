@@ -1,0 +1,217 @@
+[
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\MOD_1\\facedet.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\MOD_1\\facedet.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\MOD_1\\facedet.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\MOD_1\\initasm.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\MOD_1\\initasm.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\MOD_1\\initasm.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\asm.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\asm.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\asm.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\classicdesc.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\classicdesc.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\classicdesc.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\convshape.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\convshape.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\convshape.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\err.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\err.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\err.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\eyedet.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\eyedet.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\eyedet.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\eyedist.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\eyedist.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\eyedist.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\faceroi.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\faceroi.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\faceroi.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\hat.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\hat.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\hat.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\hatdesc.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\hatdesc.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\hatdesc.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\landmarks.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\landmarks.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\landmarks.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\misc.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\misc.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\misc.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\pinstart.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\pinstart.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\pinstart.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\print.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\print.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\print.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\shape17.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\shape17.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\shape17.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\shapehacks.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\shapehacks.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\shapehacks.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\shapemod.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\shapemod.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\shapemod.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\startshape.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\startshape.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\startshape.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\stasm.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\stasm.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\stasm.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\stasm\\stasm_lib.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\stasm_lib.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\stasm\\stasm_lib.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\venus\\Beauty.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\Beauty.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\Beauty.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\venus\\Effect.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\Effect.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\Effect.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\venus\\Feature.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\Feature.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\Feature.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\venus\\ImageWarp.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\ImageWarp.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\ImageWarp.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\venus\\Makeup.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\Makeup.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\Makeup.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\venus\\Region.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\Region.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\Region.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\venus\\blend.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\blend.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\blend.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\venus\\blur.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\blur.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\blur.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\venus\\colorspace.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\colorspace.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\colorspace.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\venus\\inpaint.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\inpaint.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\inpaint.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\venus\\opencv_utility.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\opencv_utility.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\venus\\opencv_utility.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\platform\\android\\Effect.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\platform\\android\\Effect.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\platform\\android\\Effect.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\platform\\android\\Feature.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\platform\\android\\Feature.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\platform\\android\\Feature.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\platform\\android\\Makeup.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\platform\\android\\Makeup.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\platform\\android\\Makeup.cpp"
+},
+
+{
+  "directory": "D:/work/PerfectShow/app/.cxx/Debug/661t711a/arm64-v8a",
+  "command": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -ID:/work/PerfectShow/app/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -fopenmp -static-openmp -Wall -Wextra -O3 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\venus.dir\\platform\\android\\jni_bridge.cpp.o -c D:\\work\\PerfectShow\\app\\src\\main\\cpp\\platform\\android\\jni_bridge.cpp",
+  "file": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\platform\\android\\jni_bridge.cpp"
+}
+]

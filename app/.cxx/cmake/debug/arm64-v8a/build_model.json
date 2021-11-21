@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\work\\PerfectShow",
+      "sdkFolder": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\work\\PerfectShow\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\work\\PerfectShow\\app",
+      "makeFile": "D:\\work\\PerfectShow\\app\\src\\main\\cpp\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\work\\PerfectShow\\.cxx",
+      "cxxFolder": "D:\\work\\PerfectShow\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620",
+      "ndkVersion": "23.1.7779620",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DOpenCV_DIR\u003dD:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk/sdk/native/jni"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-std\u003dc++11 -frtti -fexceptions"
+    ],
+    "variantName": "debug",
+    "soFolder": "D:\\work\\PerfectShow\\app\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "D:\\work\\PerfectShow\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "D:\\work\\PerfectShow\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "D:\\work\\PerfectShow\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "D:\\work\\PerfectShow\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+  "jsonFile": "D:\\work\\PerfectShow\\app\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\work\\PerfectShow\\app\\.cxx\\cxx\\debug\\arm64-v8a",
+  "objFolder": "D:\\work\\PerfectShow\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
+  "buildCommandFile": "D:\\work\\PerfectShow\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "D:\\work\\PerfectShow\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "D:\\work\\PerfectShow\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\work\\PerfectShow\\app\\.cxx\\cxx\\debug\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\work\\PerfectShow\\app\\.cxx\\cxx\\debug\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\work\\PerfectShow\\app\\.cxx\\cxx\\debug\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "D:\\work\\PerfectShow\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\work\\PerfectShow\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\work\\PerfectShow\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\work\\PerfectShow\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\work\\PerfectShow\\app\\.cxx\\cmake\\debug\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\work\\PerfectShow\\app\\.cxx\\cmake\\debug\\arm64-v8a\\compile_commands.json"
+}

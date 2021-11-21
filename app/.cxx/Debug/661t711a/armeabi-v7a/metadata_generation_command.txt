@@ -1,0 +1,25 @@
+                    Executable : C:\Users\Alter\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HD:\work\PerfectShow\app\src\main\cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_PLATFORM=android-21
+-DANDROID_ABI=armeabi-v7a
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DANDROID_NDK=C:\Users\Alter\AppData\Local\Android\Sdk\ndk\21.4.7075529
+-DCMAKE_ANDROID_NDK=C:\Users\Alter\AppData\Local\Android\Sdk\ndk\21.4.7075529
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\Alter\AppData\Local\Android\Sdk\ndk\21.4.7075529\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\Alter\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_CXX_FLAGS=-std=c++11 -frtti -fexceptions
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\work\PerfectShow\app\build\intermediates\cxx\Debug\661t711a\obj\armeabi-v7a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\work\PerfectShow\app\build\intermediates\cxx\Debug\661t711a\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-BD:\work\PerfectShow\app\.cxx\Debug\661t711a\armeabi-v7a
+-GNinja
+-DOpenCV_DIR=D:\opencv-4.5.4-android-sdk\OpenCV-android-sdk/sdk/native/jni
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

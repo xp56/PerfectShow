@@ -1,0 +1,480 @@
+
+{
+	"buildFiles" : [ "D:/work/PerfectShow/app/src/main/cpp/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\work\\PerfectShow\\app\\.cxx\\cmake\\debug\\arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"IlmImf-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "IlmImf",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/libIlmImf.a",
+			"toolchain" : "3174106229"
+		},
+		"ade-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "ade",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/libade.a",
+			"toolchain" : "3174106229"
+		},
+		"ittnotify-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "ittnotify",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/libittnotify.a",
+			"toolchain" : "3174106229"
+		},
+		"libcpufeatures-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libcpufeatures",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/libcpufeatures.a",
+			"toolchain" : "3174106229"
+		},
+		"libjpeg-turbo-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libjpeg-turbo",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/liblibjpeg-turbo.a",
+			"toolchain" : "3174106229"
+		},
+		"libopenjp2-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopenjp2",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/liblibopenjp2.a",
+			"toolchain" : "3174106229"
+		},
+		"libpng-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libpng",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/liblibpng.a",
+			"toolchain" : "3174106229"
+		},
+		"libprotobuf-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libprotobuf",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/liblibprotobuf.a",
+			"toolchain" : "3174106229"
+		},
+		"libtiff-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libtiff",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/liblibtiff.a",
+			"toolchain" : "3174106229"
+		},
+		"libwebp-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libwebp",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/liblibwebp.a",
+			"toolchain" : "3174106229"
+		},
+		"opencv_calib3d-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_calib3d",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/staticlibs/arm64-v8a/libopencv_calib3d.a",
+			"toolchain" : "3174106229"
+		},
+		"opencv_core-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_core",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/staticlibs/arm64-v8a/libopencv_core.a",
+			"toolchain" : "3174106229"
+		},
+		"opencv_dnn-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_dnn",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/staticlibs/arm64-v8a/libopencv_dnn.a",
+			"toolchain" : "3174106229"
+		},
+		"opencv_features2d-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_features2d",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/staticlibs/arm64-v8a/libopencv_features2d.a",
+			"toolchain" : "3174106229"
+		},
+		"opencv_flann-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_flann",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/staticlibs/arm64-v8a/libopencv_flann.a",
+			"toolchain" : "3174106229"
+		},
+		"opencv_gapi-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_gapi",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/staticlibs/arm64-v8a/libopencv_gapi.a",
+			"toolchain" : "3174106229"
+		},
+		"opencv_highgui-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_highgui",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/staticlibs/arm64-v8a/libopencv_highgui.a",
+			"toolchain" : "3174106229"
+		},
+		"opencv_imgcodecs-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_imgcodecs",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/staticlibs/arm64-v8a/libopencv_imgcodecs.a",
+			"toolchain" : "3174106229"
+		},
+		"opencv_imgproc-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_imgproc",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/staticlibs/arm64-v8a/libopencv_imgproc.a",
+			"toolchain" : "3174106229"
+		},
+		"opencv_java-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_java",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/libs/arm64-v8a/libopencv_java4.so",
+			"toolchain" : "3174106229"
+		},
+		"opencv_ml-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_ml",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/staticlibs/arm64-v8a/libopencv_ml.a",
+			"toolchain" : "3174106229"
+		},
+		"opencv_objdetect-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_objdetect",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/staticlibs/arm64-v8a/libopencv_objdetect.a",
+			"toolchain" : "3174106229"
+		},
+		"opencv_photo-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_photo",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/staticlibs/arm64-v8a/libopencv_photo.a",
+			"toolchain" : "3174106229"
+		},
+		"opencv_stitching-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_stitching",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/staticlibs/arm64-v8a/libopencv_stitching.a",
+			"toolchain" : "3174106229"
+		},
+		"opencv_video-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_video",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/staticlibs/arm64-v8a/libopencv_video.a",
+			"toolchain" : "3174106229"
+		},
+		"opencv_videoio-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "opencv_videoio",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/staticlibs/arm64-v8a/libopencv_videoio.a",
+			"toolchain" : "3174106229"
+		},
+		"quirc-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "quirc",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/libquirc.a",
+			"toolchain" : "3174106229"
+		},
+		"tbb-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "tbb",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/libtbb.a",
+			"toolchain" : "3174106229"
+		},
+		"tegra_hal-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "tegra_hal",
+			"buildType" : "debug",
+			"output" : "D:/opencv-4.5.4-android-sdk/OpenCV-android-sdk/sdk/native/3rdparty/libs/arm64-v8a/libtegra_hal.a",
+			"toolchain" : "3174106229"
+		},
+		"venus-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "venus",
+			"buildCommand" : "C:\\Users\\Alter\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\work\\PerfectShow\\app\\.cxx\\cmake\\debug\\arm64-v8a --target venus",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/MOD_1/facedet.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/MOD_1/initasm.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/asm.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/classicdesc.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/convshape.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/err.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/eyedet.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/eyedist.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/faceroi.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/hat.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/hatdesc.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/landmarks.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/misc.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/pinstart.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/print.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/shape17.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/shapehacks.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/shapemod.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/startshape.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/stasm.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/stasm/stasm_lib.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/venus/Beauty.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/venus/Effect.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/venus/Feature.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/venus/ImageWarp.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/venus/Makeup.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/venus/Region.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/venus/blend.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/venus/blur.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/venus/colorspace.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/venus/inpaint.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/venus/opencv_utility.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/platform/android/Effect.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/platform/android/Feature.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/platform/android/Makeup.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSE_INPAINTING=0 -Dvenus_EXPORTS -isystem D:\\opencv-4.5.4-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\include -ID:\\work\\PerfectShow\\app\\src\\main\\cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fopenmp=libomp -Wall -Wextra -O3 -fno-limit-debug-info  -fPIC   -std=gnu++11  -c ",
+					"src" : "D:/work/PerfectShow/app/src/main/cpp/platform/android/jni_bridge.cpp",
+					"workingDirectory" : "D:/work/PerfectShow/app/.cxx/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "D:/work/PerfectShow/app/build/intermediates/cmake/debug/obj/arm64-v8a/libvenus.so",
+			"toolchain" : "3174106229"
+		}
+	},
+	"toolchains" : 
+	{
+		"3174106229" : 
+		{
+			"cCompilerExecutable" : "C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/Alter/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

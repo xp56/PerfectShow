@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\work\PerfectShow\app\.cxx\Debug\661t711a\armeabi-v7a'
+ninja: no work to do.
